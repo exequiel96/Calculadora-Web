@@ -1,0 +1,4 @@
+mx\com\web\Servlet.class
+mx\com\domain\Calculadora.class
+mx\com\operaciones\OperacionesImpl.class
+mx\com\operaciones\Operaciones.class
